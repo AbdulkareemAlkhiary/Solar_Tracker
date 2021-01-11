@@ -4,9 +4,11 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Solar Tracker
 
-Describe your project
+The objective of this project is use a servo motor to turn a set of light sensors towards a light source.
+This system could be used to keep a solar cell pointed directly at the sun. A time of day and angle
+readout (LCD) are expected. 
 
 == Step 1: Installation
 Please describe the steps to install this project.
