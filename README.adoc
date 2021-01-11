@@ -14,11 +14,11 @@ readout (LCD) are expected.
 
 Assemble the circuit following the diagram Schematic_SolarTracker.png attached to the sketch
 
-BOM: 
- 1. Arduino Board
- 2. Servo Motor
- 3. One Resistor
- 4. Two Light Sensors
+BOM::: 
+ * Arduino Board
+ * Servo Motor
+ * One Resistor
+ * Two Light Sensors
 
 == Step 2: Load the code
 
